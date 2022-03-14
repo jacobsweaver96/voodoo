@@ -1,32 +1,20 @@
 # Voodoo
-# ---------------------------
+
 # Project Voodoo
-# ---------------------------
+
 Research into mass social engineering and data collection programs
 
-# ---------------------------
 # Description
-# ---------------------------
 
-# ---------------------------
 # Timeline
-# ---------------------------
 
-# ---------------------------
 # Participants
-# ---------------------------
 
-# ---------------------------
 # Linguistic Features
-# ---------------------------
 
-# ---------------------------
 # Theory Sources
-# ---------------------------
 
-# ---------------------------
 # Data Sources
-# ---------------------------
 
 1. Reddit
     a. Posts
@@ -78,9 +66,7 @@ Research into mass social engineering and data collection programs
 8. News Articles
     a. Sites
 
-# ---------------------------
 # Personal Data / Comms
-# ---------------------------
 
 1. Google Auth Records
     a. Login
@@ -100,49 +86,29 @@ Research into mass social engineering and data collection programs
 12. Personal Calls
 13. Historical Context
 
-# ---------------------------
 # Anomalies
-# ---------------------------
 
 1. Street Lamps
 2. Interference Patterns on Window
 
-# ---------------------------
 # Data Formatting
-# ---------------------------
 
 1. Data Types
 2. Metadata Types
 3. Data Structures
 
-# ---------------------------
 # Tools
-# ---------------------------
 
-# ---------------------------
 # Encoding and Mapping
-# ---------------------------
 
-# ---------------------------
 # Methods of Analysis
-# ---------------------------
 
-# ---------------------------
 # Extraction
-# ---------------------------
 
-# ---------------------------
 # Cross-Correlation
-# ---------------------------
 
-# ---------------------------
 # Statistical Analysis
-# ---------------------------
 
-# ---------------------------
 # Reverse Learning
-# ---------------------------
 
-# ---------------------------
 # Conclusions
-# ---------------------------
