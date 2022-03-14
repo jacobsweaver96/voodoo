@@ -13,4 +13,14 @@
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Voodoo.Analysis.Data\Voodoo.Analysis.Data.csproj" />
+    <ProjectReference Include="..\Voodoo.Analysis.Visualize\Voodoo.Analysis.Visualize.csproj" />
+    <ProjectReference Include="..\Voodoo.Analysis\Voodoo.Analysis.csproj" />
+    <ProjectReference Include="..\Voodoo.Common\Voodoo.Common.csproj" />
+    <ProjectReference Include="..\Voodoo.Crawl.Data\Voodoo.Crawl.Data.csproj" />
+    <ProjectReference Include="..\Voodoo.Util\Voodoo.Util.csproj" />
+    <ProjectReference Include="..\Voodoo\Voodoo.Crawl.csproj" />
+  </ItemGroup>
+
 </Project>

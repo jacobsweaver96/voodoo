@@ -4,4 +4,9 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Voodoo.Common\Voodoo.Common.csproj" />
+    <ProjectReference Include="..\Voodoo.Util\Voodoo.Util.csproj" />
+  </ItemGroup>
+
 </Project>

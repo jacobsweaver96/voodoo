@@ -4,4 +4,14 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="ScottPlot" Version="4.1.35" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Voodoo.Analysis.Data\Voodoo.Analysis.Data.csproj" />
+    <ProjectReference Include="..\Voodoo.Common\Voodoo.Common.csproj" />
+    <ProjectReference Include="..\Voodoo.Util\Voodoo.Util.csproj" />
+  </ItemGroup>
+
 </Project>

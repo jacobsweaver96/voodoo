@@ -27,6 +27,8 @@ Research into mass social engineering and data collection programs
         - r/holup
         - r/dataisbeautiful
         - r/programming
+        - r/technology
+        - r/technews
 
 2. Discord
     - Chat
@@ -42,6 +44,7 @@ Research into mass social engineering and data collection programs
 
 4. Youtube
     - Uploads
+    - Clips
     - Shorts
     - Comments
     - Live chat
@@ -68,7 +71,7 @@ Research into mass social engineering and data collection programs
     - Edits
     - Accounts
 
-# Personal Data / Comms
+# Individual Data / Comms
 
 1. Google Auth Records
     - Login
