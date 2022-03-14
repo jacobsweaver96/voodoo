@@ -17,63 +17,63 @@ Research into mass social engineering and data collection programs
 # Data Sources
 
 1. Reddit
-    a. Posts
-    b. Cross-posts
-    c. Comments
-    d. Upvotes
-    e. Deletions
-    f. Accounts
-    g. Subs:
-        f1. r/thedavidpakmanshow
-        f2. r/TheMajorityReport
-        f3. r/holup
-        f4. r/dataisbeautiful
-        f5. r/programming
+    - Posts
+    - Cross-posts
+    - Comments
+    - Upvotes
+    - Deletions
+    - Accounts
+    - Subs:
+        - r/thedavidpakmanshow
+        - r/TheMajorityReport
+        - r/holup
+        - r/dataisbeautiful
+        - r/programming
 
 2. Discord
-    a. Chat
-    b. Reaction Emojis
-    c. Accounts
-    d. Servers:
+    - Chat
+    - Reaction Emojis
+    - Accounts
+    - Servers:
         c1. Pakman server
 
 3. Twitter
-    a. Tweets
-    b. Retweets
-    c. Accounts
+    - Tweets
+    - Retweets
+    - Accounts
 
 4. Youtube
-    a. Uploads
-    b. Shorts
-    c. Comments
-    d. Live chat
-    e. Accounts
-    f. Channels
+    - Uploads
+    - Shorts
+    - Comments
+    - Live chat
+    - Accounts
+    - Channels
 
 5. Twitch
-    a. Livestreams
-    b. Live chat
-    c. Accounts
-    d. Channels
+    - Livestreams
+    - Live chat
+    - Accounts
+    - Channels
 
 6. TikTok
-    a. Uploads
-    b. Accounts
+    - Uploads
+    - Accounts
 
 7. Radio Play Logs
-    a. Stations
+    - Stations
 
 8. News Articles
-    a. Sites
+    - Sites
 
 # Personal Data / Comms
 
 1. Google Auth Records
-    a. Login
-    b. Account Disabling
+    - Login
+    - Account Disabling
 2. Paypal Auth Records
-    a. Login
-    b. Duo-auth
+    - Login
+    - Duo-auth
 3. Gmail
 4. Reddit
 5. Youtube
