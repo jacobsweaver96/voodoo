@@ -1,24 +1,30 @@
+# Voodoo
 ---------------------------
 Project Voodoo
 ---------------------------
 Research into mass social engineering and data collection programs
 
+# TODO
 ---------------------------
 Description
 ---------------------------
 
+# TODO
 ---------------------------
 Timeline
 ---------------------------
 
+# TODO
 ---------------------------
 Participants
 ---------------------------
 
+# TODO
 ---------------------------
 Linguistic Features
 ---------------------------
 
+# TODO
 ---------------------------
 Theory Sources
 ---------------------------
@@ -106,6 +112,7 @@ Anomalies
 1. Street Lamps
 2. Interference Patterns on Window
 
+# TODO
 ---------------------------
 Data Formatting
 ---------------------------
@@ -114,34 +121,42 @@ Data Formatting
 2. Metadata Types
 3. Data Structures
 
+# TODO
 ---------------------------
 Tools
 ---------------------------
 
+# TODO
 ---------------------------
 Encoding and Mapping
 ---------------------------
 
+# TODO
 ---------------------------
 Methods of Analysis
 ---------------------------
 
+# TODO
 ---------------------------
 Extraction
 ---------------------------
 
+# TODO
 ---------------------------
 Cross-Correlation
 ---------------------------
 
+# TODO
 ---------------------------
 Statistical Analysis
 ---------------------------
 
+# TODO
 ---------------------------
 Reverse Learning
 ---------------------------
 
+# TODO
 ---------------------------
 Conclusions
 ---------------------------
