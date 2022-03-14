@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voodoo.Api", "Voodoo.Api\Vo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voodoo.Analysis.Visualize", "Voodoo.Analysis.Visualize\Voodoo.Analysis.Visualize.csproj", "{4E932739-8DEA-47F9-9FB4-D2AC33FBD2F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voodoo.Scrape", "Voodoo.Scrape\Voodoo.Scrape.csproj", "{8878F2D0-FAA7-488E-A8CD-57C292367965}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voodoo.Scrape.Data", "Voodoo.Scrape.Data\Voodoo.Scrape.Data.csproj", "{7EC67B29-F668-4D62-AB15-F8B6DC2D9BCB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{4E932739-8DEA-47F9-9FB4-D2AC33FBD2F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E932739-8DEA-47F9-9FB4-D2AC33FBD2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E932739-8DEA-47F9-9FB4-D2AC33FBD2F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8878F2D0-FAA7-488E-A8CD-57C292367965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8878F2D0-FAA7-488E-A8CD-57C292367965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8878F2D0-FAA7-488E-A8CD-57C292367965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8878F2D0-FAA7-488E-A8CD-57C292367965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EC67B29-F668-4D62-AB15-F8B6DC2D9BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EC67B29-F668-4D62-AB15-F8B6DC2D9BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EC67B29-F668-4D62-AB15-F8B6DC2D9BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EC67B29-F668-4D62-AB15-F8B6DC2D9BCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
