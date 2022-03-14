@@ -2,15 +2,15 @@
 
 Research into mass social engineering and data collection programs
 
-# Description
+# Description - TODO
 
-# Timeline
+# Timeline - TODO
 
-# Participants
+# Participants - TODO
 
-# Linguistic Features
+# Linguistic Features - TODO
 
-# Theory Sources
+# Theory Sources - TODO
 
 # Data Sources
 
@@ -64,6 +64,10 @@ Research into mass social engineering and data collection programs
 8. News Articles
     - Sites
 
+9. Wikipedia
+    - Edits
+    - Accounts
+
 # Personal Data / Comms
 
 1. Google Auth Records
@@ -95,18 +99,18 @@ Research into mass social engineering and data collection programs
 2. Metadata Types
 3. Data Structures
 
-# Tools
+# Tools - TODO
 
-# Encoding and Mapping
+# Encoding and Mapping - TODO
 
-# Methods of Analysis
+# Methods of Analysis - TODO
 
-# Extraction
+# Extraction - TODO
 
-# Cross-Correlation
+# Cross-Correlation - TODO
 
-# Statistical Analysis
+# Statistical Analysis - TODO
 
-# Reverse Learning
+# Reverse Learning - TODO
 
-# Conclusions
+# Conclusions - TODO
